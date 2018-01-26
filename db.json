@@ -9,7 +9,7 @@
         }
     },
     {
-        "quizAnswer_list": [],
+        
         "quizQuestion": {
             "category_id": 0,
             "id": 29,
@@ -18,7 +18,7 @@
         }
     },
     {
-        "quizAnswer_list": [],
+      
         "quizQuestion": {
             "category_id": 0,
             "id": 30,
@@ -26,40 +26,6 @@
             "right_ans": 0
         }
     },
-    {
-        "quizAnswer_list": [],
-        "quizQuestion": {
-            "category_id": 0,
-            "id": 31,
-            "question": "You read in a Facebook post that the math and science ability of children studying in a government school is falling. Class VII students is unable to clear assessments at Class III level.",
-            "right_ans": 0
-        }
-    },
-    {
-        "quizAnswer_list": [],
-        "quizQuestion": {
-            "category_id": 0,
-            "id": 34,
-            "question": "You get to know from your maid that she has two school going daughters aged 9 and 11.",
-            "right_ans": 0
-        }
-    },
-    {
-        "quizAnswer_list": [],
-        "quizQuestion": {
-            "category_id": 0,
-            "id": 36,
-            "question": "your date of birth",
-            "right_ans": 0
-        }
-    },
-    {
-        "quizAnswer_list": [],
-        "quizQuestion": {
-            "category_id": 0,
-            "id": 37,
-            "question": "hahah",
-            "right_ans": 0
-        }
+    
     }
 ]
