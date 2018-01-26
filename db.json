@@ -7,22 +7,4 @@
             "question": " If an initiative is planned by TCS to help contract staff improve their conversational English skills, what would be your response ",
             "right_ans": 0
         }
-    },
-    {
-        
-        "quizQuestion": {
-            "category_id": 0,
-            "id": 29,
-            "question": "In a slum area near my apartment complex, lots of small children are involved in manufacturing of incense sticks and is brought to my notice by my brother.  I. I will not be bothered as it is not relevant/related to me. II. I will visit the area to understand the reason/cause. III. I will speak with the owner of manufacturing unit on the importance of education. IV. I will be concerned. But, the slum area is dirty and I won't go there as I may fall sick. V. I will alert the government helpline on Child labor about the same. Please select the actions you feel are relevant to the above scenario.",
-            "right_ans": 0
-        }
-    },
-    {
-      
-        "quizQuestion": {
-            "category_id": 0,
-            "id": 30,
-            "question": "What do you feel when you see children begging on streets ",
-            "right_ans": 0
-        }
     }]
