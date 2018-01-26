@@ -1,14 +1,65 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+        "quizAnswer_list": [],
+        "quizQuestion": {
+            "category_id": 0,
+            "id": 27,
+            "question": " If an initiative is planned by TCS to help contract staff improve their conversational English skills, what would be your response ",
+            "right_ans": 0
+        }
+    },
+    {
+        "quizAnswer_list": [],
+        "quizQuestion": {
+            "category_id": 0,
+            "id": 29,
+            "question": "In a slum area near my apartment complex, lots of small children are involved in manufacturing of incense sticks and is brought to my notice by my brother.  I. I will not be bothered as it is not relevant/related to me. II. I will visit the area to understand the reason/cause. III. I will speak with the owner of manufacturing unit on the importance of education. IV. I will be concerned. But, the slum area is dirty and I won't go there as I may fall sick. V. I will alert the government helpline on Child labor about the same. Please select the actions you feel are relevant to the above scenario.",
+            "right_ans": 0
+        }
+    },
+    {
+        "quizAnswer_list": [],
+        "quizQuestion": {
+            "category_id": 0,
+            "id": 30,
+            "question": "What do you feel when you see children begging on streets ",
+            "right_ans": 0
+        }
+    },
+    {
+        "quizAnswer_list": [],
+        "quizQuestion": {
+            "category_id": 0,
+            "id": 31,
+            "question": "You read in a Facebook post that the math and science ability of children studying in a government school is falling. Class VII students is unable to clear assessments at Class III level.",
+            "right_ans": 0
+        }
+    },
+    {
+        "quizAnswer_list": [],
+        "quizQuestion": {
+            "category_id": 0,
+            "id": 34,
+            "question": "You get to know from your maid that she has two school going daughters aged 9 and 11.",
+            "right_ans": 0
+        }
+    },
+    {
+        "quizAnswer_list": [],
+        "quizQuestion": {
+            "category_id": 0,
+            "id": 36,
+            "question": "your date of birth",
+            "right_ans": 0
+        }
+    },
+    {
+        "quizAnswer_list": [],
+        "quizQuestion": {
+            "category_id": 0,
+            "id": 37,
+            "question": "hahah",
+            "right_ans": 0
+        }
+    }
+]
